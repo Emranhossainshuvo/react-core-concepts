@@ -1,0 +1,6 @@
+.box{
+    background-color: cadetblue;
+    border: 2px solid rgb(6, 51, 34);
+    border-radius: 15px;
+    margin-bottom: 5px;
+}
